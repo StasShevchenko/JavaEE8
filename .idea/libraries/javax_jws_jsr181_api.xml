@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javax.jws.jsr181.api" type="repository">
+    <properties maven-id="javax.jws:jsr181-api:1.0-MR1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/jws/jsr181-api/1.0-MR1/jsr181-api-1.0-MR1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
